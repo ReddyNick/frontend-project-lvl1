@@ -9,3 +9,5 @@
 3) [brain-gcd](https://asciinema.org/a/UEz7Sz8f034J4fjwFyAUuaEjx)
 
 4) [brain-progression](https://asciinema.org/a/6dpJXweLhPsHwAx8dAuLkLMis)
+
+5) [brain-prime](https://asciinema.org/a/qwtilAq2DNQezZYxX8Ysorrz7)
