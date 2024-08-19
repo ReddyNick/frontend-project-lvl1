@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ReddyNick/frontend-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ReddyNick/frontend-project-lvl1/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f42d806bd5e53ce9194a/maintainability)](https://codeclimate.com/github/ReddyNick/frontend-project-lvl1/maintainability)
 
 This repo contains simple arithmetic games.
 
